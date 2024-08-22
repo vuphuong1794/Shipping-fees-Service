@@ -1,6 +1,3 @@
-CREATE DATABASE ghtk_shipping_fees;
-
-USE ghtk_shipping_fees;
 
 -- Bảng địa điểm lấy hàng
 CREATE TABLE pick_addresses (
